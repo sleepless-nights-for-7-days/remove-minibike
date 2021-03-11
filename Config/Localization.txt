@@ -1,0 +1,2 @@
+Key,File,Type,English
+perkGreaseMonkeyRank2LongDesc,progression,perk Int,"Through continued study, you begin to understand the science behind combustion and energy storage. Can craft gas cans and quality 2 car batteries."

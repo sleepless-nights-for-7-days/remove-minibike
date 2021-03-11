@@ -1,0 +1,6 @@
+<config>
+    <remove xpath="/lootcontainers/lootgroup[@name='schematicsVehiclesT1']/item[@name='vehicleMinibikeChassisSchematic']"/>
+    <remove xpath="/lootcontainers/lootgroup[@name='schematicsVehiclesT1']/item[@name='vehicleMinibikeHandlebarsSchematic']"/>
+    <remove xpath="/lootcontainers/lootgroup[@name='minibikeParts']/item[@name='vehicleMinibikeChassis']"/>
+    <remove xpath="/lootcontainers/lootgroup[@name='minibikeParts']/item[@name='vehicleMinibikeHandlebars']"/>
+</config>

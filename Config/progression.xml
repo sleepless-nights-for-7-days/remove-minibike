@@ -1,0 +1,4 @@
+<config>
+    <!-- replace with default, except leave out vehicleMinibikeChassis and vehicleMinibikeHandlebars -->
+    <setattribute xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='2,5']" name="tags">carBattery,ammoGasCan</setattribute>
+</config>
